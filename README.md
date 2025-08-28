@@ -1,4 +1,4 @@
-<h2>👨‍💻 Estudante de Engenharia de Software na UNIN-GÁ</h2>
-<h2>🔧 Focado em desenvolvimento de software, algoritmos e estruturas de dados</h2>
-<h2>📚 Sempre aprendendo e explorando novas tecnologias</h2>
-<h2>📬 Entre em contato: [henrike454545@email.com]</h2>
+<h3>👨‍💻 Estudante de Engenharia de Software na UNIN-GÁ</h3>
+<p>🔧 Focado em desenvolvimento de software, algoritmos e estruturas de dados</p>
+<p>📚 Sempre aprendendo e explorando novas tecnologias</p>
+<p>📬 Entre em contato: [henrike454545@email.com]</p>
